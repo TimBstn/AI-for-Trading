@@ -4,4 +4,4 @@ A collection of projects based on the Udacity nano degree program [AI for Tradin
 
 1. [Momentum Trading](https://github.com/TimBstn/AI-for-Trading/blob/main/momentum.ipynb) <br>
 The newest hype in the finance world is algorithmic trading. Everybody wants to implement automated trading strategies that outperform the market. Imagine just feeding data into your machine and it does the rest for you. Hedge funds like Renaissance Technologies made billions with their algorithmic trading strategies. In this notebook, we are implementing one of the basic strategies: Momentum. Momentum strategies follow the idea that outperforming stocks keep outperforming and underperforming stocks keep underperforming. <br>
-[For more information, read my corresponding blogpost]().
+[For more information, read my corresponding blogpost](https://timlearns.com/momentum-strategy-in-python/).
