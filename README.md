@@ -6,3 +6,5 @@ A collection of projects based on the Udacity nano degree program [AI for Tradin
 The newest hype in the finance world is algorithmic trading. Everybody wants to implement automated trading strategies that outperform the market. Imagine just feeding data into your machine and it does the rest for you. Hedge funds like Renaissance Technologies made billions with their algorithmic trading strategies. In this notebook, we are implementing one of the basic strategies: Momentum. Momentum strategies follow the idea that outperforming stocks keep outperforming and underperforming stocks keep underperforming. <br>
 [For more information, read my corresponding blogpost](https://timlearns.com/momentum-strategy-in-python/).
 2. [Breakout Trading](https://github.com/TimBstn/AI-for-Trading/blob/main/breakout_strategy.ipynb) <br>
+We will code and evaluate a breakout-strategy in python. In this strategy an investor looks for levels that a security has not been able to move beyond and waits for these levels to break, i.e. the security to move beyond those levels. <br>
+[For more information, read my corresponding blogpost](https://timlearns.com/breakout-strategy-in-python/).
